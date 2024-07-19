@@ -1,0 +1,461 @@
+,statistics,pos,time,valor
+0,accurateCrosses,1,Palmeiras,225
+1,accurateCrosses,2,Vasco da Gama,224
+2,accurateCrosses,3,América Mineiro,207
+3,accurateCrosses,4,Botafogo,193
+4,accurateCrosses,5,Red Bull Bragantino,187
+5,accurateCrosses,6,Fortaleza,186
+6,accurateCrosses,7,Goiás,186
+7,accurateCrosses,8,Athletico,181
+8,accurateCrosses,9,Cruzeiro,178
+9,accurateCrosses,10,Santos,168
+10,accurateCrosses,11,Bahia,168
+11,accurateCrosses,12,São Paulo,165
+12,accurateCrosses,13,Cuiabá,159
+13,accurateCrosses,14,Coritiba,155
+14,accurateCrosses,15,Fluminense,152
+15,accurateCrosses,16,Corinthians,151
+16,accurateCrosses,17,Flamengo,133
+17,accurateCrosses,18,Atlético Mineiro,132
+18,accurateCrosses,19,Grêmio,132
+19,accurateCrosses,20,Internacional,128
+20,accurateLongBalls,1,Palmeiras,1086
+21,accurateLongBalls,2,São Paulo,981
+22,accurateLongBalls,3,Cruzeiro,900
+23,accurateLongBalls,4,Botafogo,862
+24,accurateLongBalls,5,Athletico,850
+25,accurateLongBalls,6,Red Bull Bragantino,839
+26,accurateLongBalls,7,Atlético Mineiro,809
+27,accurateLongBalls,8,Flamengo,800
+28,accurateLongBalls,9,Corinthians,793
+29,accurateLongBalls,10,Goiás,752
+30,accurateLongBalls,11,Vasco da Gama,751
+31,accurateLongBalls,12,Fortaleza,743
+32,accurateLongBalls,13,Cuiabá,732
+33,accurateLongBalls,14,Bahia,683
+34,accurateLongBalls,15,Fluminense,679
+35,accurateLongBalls,16,América Mineiro,647
+36,accurateLongBalls,17,Coritiba,639
+37,accurateLongBalls,18,Internacional,635
+38,accurateLongBalls,19,Santos,604
+39,accurateLongBalls,20,Grêmio,545
+40,accuratePasses,1,Fluminense,18499
+41,accuratePasses,2,Flamengo,17335
+42,accuratePasses,3,São Paulo,17214
+43,accuratePasses,4,Internacional,14704
+44,accuratePasses,5,Atlético Mineiro,14668
+45,accuratePasses,6,Corinthians,14538
+46,accuratePasses,7,Palmeiras,13524
+47,accuratePasses,8,Red Bull Bragantino,13519
+48,accuratePasses,9,Cruzeiro,13276
+49,accuratePasses,10,Bahia,12913
+50,accuratePasses,11,Botafogo,12897
+51,accuratePasses,12,Vasco da Gama,12706
+52,accuratePasses,13,Grêmio,12420
+53,accuratePasses,14,Athletico,12214
+54,accuratePasses,15,Fortaleza,11811
+55,accuratePasses,16,Cuiabá,11646
+56,accuratePasses,17,Goiás,11158
+57,accuratePasses,18,Coritiba,10831
+58,accuratePasses,19,Santos,10806
+59,accuratePasses,20,América Mineiro,10546
+60,averageBallPossession,1,Fluminense,61.76
+61,averageBallPossession,2,São Paulo,59.79
+62,averageBallPossession,3,Flamengo,57.74
+63,averageBallPossession,4,Red Bull Bragantino,56.95
+64,averageBallPossession,5,Atlético Mineiro,52.84
+65,averageBallPossession,6,Palmeiras,52.68
+66,averageBallPossession,7,Internacional,51.63
+67,averageBallPossession,8,Cruzeiro,51.47
+68,averageBallPossession,9,Bahia,49.82
+69,averageBallPossession,10,Vasco da Gama,48.61
+70,averageBallPossession,11,Corinthians,48.58
+71,averageBallPossession,12,Athletico,48.42
+72,averageBallPossession,13,Botafogo,48.05
+73,averageBallPossession,14,Grêmio,46.39
+74,averageBallPossession,15,Fortaleza,46.34
+75,averageBallPossession,16,Goiás,44.42
+76,averageBallPossession,17,Santos,44.39
+77,averageBallPossession,18,Coritiba,43.71
+78,averageBallPossession,19,Cuiabá,43.61
+79,averageBallPossession,20,América Mineiro,42.79
+80,avgRating,1,Palmeiras,6.93
+81,avgRating,2,Atlético Mineiro,6.9
+82,avgRating,3,Flamengo,6.89
+83,avgRating,4,Botafogo,6.88
+84,avgRating,5,Athletico,6.87
+85,avgRating,6,Red Bull Bragantino,6.86
+86,avgRating,7,Fluminense,6.86
+87,avgRating,8,Cruzeiro,6.86
+88,avgRating,9,São Paulo,6.84
+89,avgRating,10,Fortaleza,6.84
+90,avgRating,11,Corinthians,6.83
+91,avgRating,12,Bahia,6.83
+92,avgRating,13,Cuiabá,6.82
+93,avgRating,14,Grêmio,6.82
+94,avgRating,15,Vasco da Gama,6.81
+95,avgRating,16,Internacional,6.79
+96,avgRating,17,Goiás,6.78
+97,avgRating,18,Santos,6.76
+98,avgRating,19,Coritiba,6.72
+99,avgRating,20,América Mineiro,6.7
+100,bigChances,1,Palmeiras,100
+101,bigChances,2,Flamengo,84
+102,bigChances,3,Athletico,82
+103,bigChances,4,Grêmio,79
+104,bigChances,5,Red Bull Bragantino,75
+105,bigChances,6,Fluminense,74
+106,bigChances,7,Atlético Mineiro,74
+107,bigChances,8,Botafogo,74
+108,bigChances,9,São Paulo,70
+109,bigChances,10,Vasco da Gama,70
+110,bigChances,11,Cruzeiro,70
+111,bigChances,12,Bahia,70
+112,bigChances,13,Fortaleza,70
+113,bigChances,14,Santos,65
+114,bigChances,15,Internacional,59
+115,bigChances,16,América Mineiro,57
+116,bigChances,17,Coritiba,55
+117,bigChances,18,Corinthians,52
+118,bigChances,19,Cuiabá,49
+119,bigChances,20,Goiás,49
+120,bigChancesMissed,1,Palmeiras,60
+121,bigChancesMissed,2,Cruzeiro,53
+122,bigChancesMissed,3,Flamengo,49
+123,bigChancesMissed,4,Grêmio,47
+124,bigChancesMissed,5,Athletico,45
+125,bigChancesMissed,6,Fluminense,43
+126,bigChancesMissed,7,Vasco da Gama,43
+127,bigChancesMissed,8,Red Bull Bragantino,43
+128,bigChancesMissed,9,Bahia,42
+129,bigChancesMissed,10,Fortaleza,42
+130,bigChancesMissed,11,São Paulo,41
+131,bigChancesMissed,12,Botafogo,40
+132,bigChancesMissed,13,Atlético Mineiro,37
+133,bigChancesMissed,14,Santos,35
+134,bigChancesMissed,15,América Mineiro,34
+135,bigChancesMissed,16,Coritiba,34
+136,bigChancesMissed,17,Internacional,32
+137,bigChancesMissed,18,Goiás,29
+138,bigChancesMissed,19,Corinthians,27
+139,bigChancesMissed,20,Cuiabá,26
+140,cleanSheets,1,Red Bull Bragantino,17
+141,cleanSheets,2,Palmeiras,16
+142,cleanSheets,3,Cruzeiro,16
+143,cleanSheets,4,Flamengo,15
+144,cleanSheets,5,São Paulo,15
+145,cleanSheets,6,Atlético Mineiro,15
+146,cleanSheets,7,Botafogo,15
+147,cleanSheets,8,Cuiabá,13
+148,cleanSheets,9,Fluminense,12
+149,cleanSheets,10,Internacional,11
+150,cleanSheets,11,Corinthians,10
+151,cleanSheets,12,Fortaleza,10
+152,cleanSheets,13,Athletico,10
+153,cleanSheets,14,Goiás,10
+154,cleanSheets,15,Vasco da Gama,9
+155,cleanSheets,16,Bahia,9
+156,cleanSheets,17,Grêmio,8
+157,cleanSheets,18,Santos,8
+158,cleanSheets,19,Coritiba,6
+159,cleanSheets,20,América Mineiro,2
+160,clearances,1,Goiás,864
+161,clearances,2,Coritiba,839
+162,clearances,3,América Mineiro,817
+163,clearances,4,Santos,797
+164,clearances,5,Corinthians,783
+165,clearances,6,Vasco da Gama,782
+166,clearances,7,Grêmio,778
+167,clearances,8,Botafogo,768
+168,clearances,9,Internacional,742
+169,clearances,10,Cuiabá,741
+170,clearances,11,Atlético Mineiro,719
+171,clearances,12,Fortaleza,687
+172,clearances,13,Athletico,666
+173,clearances,14,Flamengo,656
+174,clearances,15,Bahia,637
+175,clearances,16,Red Bull Bragantino,624
+176,clearances,17,Cruzeiro,608
+177,clearances,18,São Paulo,604
+178,clearances,19,Fluminense,589
+179,clearances,20,Palmeiras,538
+180,corners,1,Red Bull Bragantino,285
+181,corners,2,Palmeiras,242
+182,corners,3,Cruzeiro,240
+183,corners,4,Athletico,216
+184,corners,5,São Paulo,214
+185,corners,6,Fluminense,210
+186,corners,7,Bahia,209
+187,corners,8,Flamengo,207
+188,corners,9,Vasco da Gama,203
+189,corners,10,Grêmio,202
+190,corners,11,Goiás,201
+191,corners,12,Fortaleza,191
+192,corners,13,Atlético Mineiro,188
+193,corners,14,Cuiabá,187
+194,corners,15,Santos,186
+195,corners,16,Botafogo,174
+196,corners,17,América Mineiro,172
+197,corners,18,Corinthians,167
+198,corners,19,Coritiba,166
+199,corners,20,Internacional,157
+200,fouls,1,Goiás,637
+201,fouls,2,Red Bull Bragantino,603
+202,fouls,3,Atlético Mineiro,599
+203,fouls,4,Coritiba,586
+204,fouls,5,Palmeiras,583
+205,fouls,6,Athletico,578
+206,fouls,7,Santos,573
+207,fouls,8,Cruzeiro,570
+208,fouls,9,Vasco da Gama,557
+209,fouls,10,América Mineiro,550
+210,fouls,11,Bahia,549
+211,fouls,12,São Paulo,530
+212,fouls,13,Fortaleza,519
+213,fouls,14,Internacional,518
+214,fouls,15,Botafogo,515
+215,fouls,16,Fluminense,506
+216,fouls,17,Flamengo,493
+217,fouls,18,Grêmio,480
+218,fouls,19,Corinthians,475
+219,fouls,20,Cuiabá,473
+220,goalsConceded,1,Atlético Mineiro,32
+221,goalsConceded,2,Cruzeiro,32
+222,goalsConceded,3,Palmeiras,33
+223,goalsConceded,4,Red Bull Bragantino,35
+224,goalsConceded,5,Botafogo,37
+225,goalsConceded,6,São Paulo,38
+226,goalsConceded,7,Cuiabá,39
+227,goalsConceded,8,Flamengo,42
+228,goalsConceded,9,Athletico,43
+229,goalsConceded,10,Fortaleza,44
+230,goalsConceded,11,Internacional,45
+231,goalsConceded,12,Fluminense,47
+232,goalsConceded,13,Corinthians,48
+233,goalsConceded,14,Vasco da Gama,51
+234,goalsConceded,15,Bahia,53
+235,goalsConceded,16,Goiás,53
+236,goalsConceded,17,Grêmio,56
+237,goalsConceded,18,Santos,64
+238,goalsConceded,19,Coritiba,73
+239,goalsConceded,20,América Mineiro,81
+240,goalsScored,1,Palmeiras,64
+241,goalsScored,2,Grêmio,63
+242,goalsScored,3,Botafogo,58
+243,goalsScored,4,Flamengo,56
+244,goalsScored,5,Atlético Mineiro,52
+245,goalsScored,6,Fluminense,51
+246,goalsScored,7,Athletico,51
+247,goalsScored,8,Bahia,50
+248,goalsScored,9,Red Bull Bragantino,49
+249,goalsScored,10,Corinthians,47
+250,goalsScored,11,Internacional,46
+251,goalsScored,12,Fortaleza,45
+252,goalsScored,13,América Mineiro,42
+253,goalsScored,14,Vasco da Gama,41
+254,goalsScored,15,Coritiba,41
+255,goalsScored,16,São Paulo,40
+256,goalsScored,17,Cuiabá,40
+257,goalsScored,18,Santos,39
+258,goalsScored,19,Goiás,36
+259,goalsScored,20,Cruzeiro,35
+260,hitWoodwork,1,Palmeiras,20
+261,hitWoodwork,2,Fluminense,20
+262,hitWoodwork,3,São Paulo,19
+263,hitWoodwork,4,América Mineiro,18
+264,hitWoodwork,5,Red Bull Bragantino,17
+265,hitWoodwork,6,Flamengo,16
+266,hitWoodwork,7,Internacional,15
+267,hitWoodwork,8,Cruzeiro,14
+268,hitWoodwork,9,Fortaleza,14
+269,hitWoodwork,10,Vasco da Gama,13
+270,hitWoodwork,11,Santos,13
+271,hitWoodwork,12,Grêmio,12
+272,hitWoodwork,13,Athletico,12
+273,hitWoodwork,14,Goiás,12
+274,hitWoodwork,15,Atlético Mineiro,11
+275,hitWoodwork,16,Bahia,10
+276,hitWoodwork,17,Cuiabá,10
+277,hitWoodwork,18,Botafogo,9
+278,hitWoodwork,19,Coritiba,6
+279,hitWoodwork,20,Corinthians,5
+280,interceptions,1,Botafogo,412
+281,interceptions,2,Bahia,400
+282,interceptions,3,Red Bull Bragantino,398
+283,interceptions,4,Coritiba,385
+284,interceptions,5,América Mineiro,374
+285,interceptions,6,Santos,370
+286,interceptions,7,Athletico,356
+287,interceptions,8,Atlético Mineiro,354
+288,interceptions,9,Fortaleza,352
+289,interceptions,10,Goiás,349
+290,interceptions,11,Grêmio,341
+291,interceptions,12,Cruzeiro,336
+292,interceptions,13,Corinthians,328
+293,interceptions,14,Vasco da Gama,317
+294,interceptions,15,Internacional,316
+295,interceptions,16,Palmeiras,298
+296,interceptions,17,Flamengo,295
+297,interceptions,18,Cuiabá,295
+298,interceptions,19,São Paulo,262
+299,interceptions,20,Fluminense,259
+300,penaltyGoals,1,Flamengo,8
+301,penaltyGoals,2,Coritiba,8
+302,penaltyGoals,3,Cuiabá,7
+303,penaltyGoals,4,Atlético Mineiro,6
+304,penaltyGoals,5,Santos,6
+305,penaltyGoals,6,Corinthians,6
+306,penaltyGoals,7,Goiás,5
+307,penaltyGoals,8,Grêmio,5
+308,penaltyGoals,9,Botafogo,5
+309,penaltyGoals,10,Fortaleza,5
+310,penaltyGoals,11,São Paulo,5
+311,penaltyGoals,12,Vasco da Gama,4
+312,penaltyGoals,13,Bahia,4
+313,penaltyGoals,14,Athletico,4
+314,penaltyGoals,15,América Mineiro,4
+315,penaltyGoals,16,Red Bull Bragantino,3
+316,penaltyGoals,17,Internacional,3
+317,penaltyGoals,18,Fluminense,3
+318,penaltyGoals,19,Palmeiras,2
+319,penaltyGoals,20,Cruzeiro,2
+320,penaltyGoalsConceded,1,Coritiba,10
+321,penaltyGoalsConceded,2,São Paulo,9
+322,penaltyGoalsConceded,3,Red Bull Bragantino,8
+323,penaltyGoalsConceded,4,Bahia,6
+324,penaltyGoalsConceded,5,Flamengo,7
+325,penaltyGoalsConceded,6,Corinthians,7
+326,penaltyGoalsConceded,7,Internacional,7
+327,penaltyGoalsConceded,8,Grêmio,5
+328,penaltyGoalsConceded,9,Goiás,5
+329,penaltyGoalsConceded,10,Fluminense,6
+330,penaltyGoalsConceded,11,América Mineiro,8
+331,penaltyGoalsConceded,12,Cuiabá,4
+332,penaltyGoalsConceded,13,Palmeiras,5
+333,penaltyGoalsConceded,14,Vasco da Gama,5
+334,penaltyGoalsConceded,15,Santos,6
+335,penaltyGoalsConceded,16,Athletico,7
+336,penaltyGoalsConceded,17,Fortaleza,7
+337,penaltyGoalsConceded,18,Atlético Mineiro,2
+338,penaltyGoalsConceded,19,Cruzeiro,3
+339,penaltyGoalsConceded,20,Botafogo,1
+340,redCards,1,América Mineiro,11
+341,redCards,2,Fluminense,9
+342,redCards,3,Santos,8
+343,redCards,4,Vasco da Gama,6
+344,redCards,5,Atlético Mineiro,6
+345,redCards,6,Internacional,6
+346,redCards,7,Bahia,6
+347,redCards,8,Red Bull Bragantino,6
+348,redCards,9,Goiás,6
+349,redCards,10,Flamengo,5
+350,redCards,11,São Paulo,5
+351,redCards,12,Grêmio,5
+352,redCards,13,Botafogo,5
+353,redCards,14,Coritiba,5
+354,redCards,15,Palmeiras,4
+355,redCards,16,Cruzeiro,4
+356,redCards,17,Athletico,4
+357,redCards,18,Corinthians,3
+358,redCards,19,Cuiabá,3
+359,redCards,20,Fortaleza,1
+360,shots,1,Red Bull Bragantino,638
+361,shots,2,Palmeiras,613
+362,shots,3,Athletico,554
+363,shots,4,Fluminense,550
+364,shots,5,Fortaleza,547
+365,shots,6,Bahia,539
+366,shots,7,Cruzeiro,529
+367,shots,8,Botafogo,523
+368,shots,9,São Paulo,521
+369,shots,10,América Mineiro,516
+370,shots,11,Grêmio,507
+371,shots,12,Flamengo,499
+372,shots,13,Goiás,497
+373,shots,14,Atlético Mineiro,486
+374,shots,15,Vasco da Gama,480
+375,shots,16,Santos,469
+376,shots,17,Internacional,463
+377,shots,18,Corinthians,462
+378,shots,19,Cuiabá,448
+379,shots,20,Coritiba,429
+380,shotsOnTarget,1,Fluminense,211
+381,shotsOnTarget,2,Red Bull Bragantino,211
+382,shotsOnTarget,3,Palmeiras,210
+383,shotsOnTarget,4,Grêmio,194
+384,shotsOnTarget,5,Fortaleza,191
+385,shotsOnTarget,6,Flamengo,180
+386,shotsOnTarget,7,Botafogo,179
+387,shotsOnTarget,8,Athletico,174
+388,shotsOnTarget,9,São Paulo,173
+389,shotsOnTarget,10,Atlético Mineiro,173
+390,shotsOnTarget,11,Bahia,171
+391,shotsOnTarget,12,Cruzeiro,167
+392,shotsOnTarget,13,América Mineiro,165
+393,shotsOnTarget,14,Corinthians,164
+394,shotsOnTarget,15,Vasco da Gama,156
+395,shotsOnTarget,16,Santos,155
+396,shotsOnTarget,17,Internacional,152
+397,shotsOnTarget,18,Coritiba,152
+398,shotsOnTarget,19,Goiás,145
+399,shotsOnTarget,20,Cuiabá,139
+400,successfulDribbles,1,Fluminense,486
+401,successfulDribbles,2,São Paulo,462
+402,successfulDribbles,3,Red Bull Bragantino,436
+403,successfulDribbles,4,Flamengo,406
+404,successfulDribbles,5,Vasco da Gama,393
+405,successfulDribbles,6,Coritiba,393
+406,successfulDribbles,7,Palmeiras,391
+407,successfulDribbles,8,Santos,391
+408,successfulDribbles,9,Botafogo,387
+409,successfulDribbles,10,Atlético Mineiro,383
+410,successfulDribbles,11,Cruzeiro,375
+411,successfulDribbles,12,Fortaleza,374
+412,successfulDribbles,13,Internacional,363
+413,successfulDribbles,14,Bahia,362
+414,successfulDribbles,15,América Mineiro,360
+415,successfulDribbles,16,Grêmio,358
+416,successfulDribbles,17,Athletico,344
+417,successfulDribbles,18,Cuiabá,337
+418,successfulDribbles,19,Goiás,326
+419,successfulDribbles,20,Corinthians,319
+420,tackles,1,Atlético Mineiro,754
+421,tackles,2,Bahia,692
+422,tackles,3,Coritiba,683
+423,tackles,4,Santos,682
+424,tackles,5,Fortaleza,673
+425,tackles,6,Cuiabá,645
+426,tackles,7,Red Bull Bragantino,644
+427,tackles,8,Flamengo,642
+428,tackles,9,Grêmio,617
+429,tackles,10,Botafogo,617
+430,tackles,11,Cruzeiro,614
+431,tackles,12,Vasco da Gama,609
+432,tackles,13,Corinthians,607
+433,tackles,14,Goiás,606
+434,tackles,15,Palmeiras,605
+435,tackles,16,Internacional,601
+436,tackles,17,Athletico,577
+437,tackles,18,América Mineiro,558
+438,tackles,19,Fluminense,546
+439,tackles,20,São Paulo,545
+440,yellowCards,1,Coritiba,120
+441,yellowCards,2,Fluminense,117
+442,yellowCards,3,Atlético Mineiro,112
+443,yellowCards,4,Internacional,109
+444,yellowCards,5,Red Bull Bragantino,108
+445,yellowCards,6,Athletico,107
+446,yellowCards,7,Goiás,104
+447,yellowCards,8,São Paulo,103
+448,yellowCards,9,Vasco da Gama,102
+449,yellowCards,10,Santos,102
+450,yellowCards,11,Grêmio,100
+451,yellowCards,12,Cruzeiro,99
+452,yellowCards,13,Bahia,96
+453,yellowCards,14,Fortaleza,94
+454,yellowCards,15,Corinthians,92
+455,yellowCards,16,Botafogo,92
+456,yellowCards,17,Palmeiras,91
+457,yellowCards,18,Cuiabá,89
+458,yellowCards,19,Flamengo,86
+459,yellowCards,20,América Mineiro,86
